@@ -1,3 +1,3 @@
 print("hello, world")
 print("wlcome to python")
-print("git hub programming.")
+print("git hub is good programming.")
